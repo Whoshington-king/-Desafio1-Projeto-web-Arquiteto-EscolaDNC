@@ -4,4 +4,4 @@ Opa sou dnv, esse é o meu 3º projeto oficial kkkkkk, bom esse é um desafio da
 
 Link de acesso ao Website: https://web-arquitetura.netlify.app
 
-Link de acesso a parte formularios: https://docs.google.com/spreadsheets/d/17UPNMz-MPTKbCyR1e08VVf5m6noDUnoEXk6ZWM8Fzfg/edit#gid=0
+Link de acesso ao formulario: https://docs.google.com/spreadsheets/d/17UPNMz-MPTKbCyR1e08VVf5m6noDUnoEXk6ZWM8Fzfg/edit#gid=0
